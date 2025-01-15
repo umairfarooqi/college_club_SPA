@@ -43,6 +43,3 @@ class Student {
 }
 Student.addStudent("01", "umair", "umair@gmail.com", "programing");
 Student.viewAllStudent();
-
-updateStudentRecord = new Student();
-updateStudentRecord.updateStudent("02", "UMAIR", "umair@jestravel.com", "Traveling");
