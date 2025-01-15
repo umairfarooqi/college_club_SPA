@@ -46,5 +46,3 @@ Student.viewAllStudent();
 
 updateStudentRecord = new Student();
 updateStudentRecord.updateStudent("02", "UMAIR", "umair@jestravel.com", "Traveling");
-
-Student.viewAllStudent();
